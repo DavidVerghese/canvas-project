@@ -31,12 +31,14 @@
 
 ## Priority Matrix 
 
+![wireframe](Images/priority_matrix.png)
+
 ## Timeframe
 
 | Component | Priority | Estimated Time | Time Invested | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
 | Research React Native | Moderate | 2hrs | n/a | n/a  |
-| Research Painting | Moderate | 1hr|n/a | n/a  |
+| Research Painting Interface | Moderate | 1hr|n/a | n/a  |
 | Create React App without Painting Interface | Moderate | 3hrs| n/a | n/a  |
 | Create Painting Interface |High | 3hrs|n/a | n/a  |
 | Debugging the code | H | 3hrs| n/a | n/a  |
