@@ -1,37 +1,24 @@
 # Project Overview
 
-## Project Name
-
-The name of your project.
-
-## Project Description
-
-Use this section to describe your final project and perhaps any links to relevant sites that help convey the concept and\or functionality.
-
-## API and Data Sample
-
-Specify the API you are using and include a link. Show us a snippet of JSON returned by your API so we know you can access it and get the info you need
+## Canvas
 
 ## Wireframes
 
-Upload images of your wireframes to an image hosting site or add them to an assets folder in your repo and link them here with a description of each specific wireframe.
+![wireframe](Images/wireframe.png)
 
 ### MVP/PostMVP
 
-The functionality will then be divided into two separate lists: MPV and PostMVP.  Carefully decided what is placed into your MVP as the client will expect this functionality to be implemented upon project completion.  
 
 #### MVP 
-*These are examples only. Replace with your own MVP features.*
-
-- Find and use external api 
-- Render data on page 
-- Allow user to choose favorites 
+1. Create interface that allows users to 'paint'
+2. Have different brush sizes
+3. Have a full range of colors
+4. Have an eraser
 
 #### PostMVP  
-*These are examples only. Replace with your own Post-MVP features.*
 
-- Add second API
-- Use local storage to save user favorites
+1. Have a feature where the paint 'drips'
+2. Have a magnifying glass
 
 ## Project Schedule
 
